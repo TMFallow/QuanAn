@@ -1,0 +1,7 @@
+D:\Nam 3\Phat Trien PhanMem Ung Dung Thong Minh\DoAnQuanLyBanHang\QuanBanHang\GUI\DAL\bin\Debug\DAL.dll
+D:\Nam 3\Phat Trien PhanMem Ung Dung Thong Minh\DoAnQuanLyBanHang\QuanBanHang\GUI\DAL\bin\Debug\DAL.pdb
+D:\Nam 3\Phat Trien PhanMem Ung Dung Thong Minh\DoAnQuanLyBanHang\QuanBanHang\GUI\DAL\obj\Debug\DAL.dll
+D:\Nam 3\Phat Trien PhanMem Ung Dung Thong Minh\DoAnQuanLyBanHang\QuanBanHang\GUI\DAL\obj\Debug\DAL.pdb
+D:\Nam 3\Phat Trien PhanMem Ung Dung Thong Minh\DoAnQuanLyBanHang\QuanBanHang\GUI\DAL\bin\Debug\DTO.dll
+D:\Nam 3\Phat Trien PhanMem Ung Dung Thong Minh\DoAnQuanLyBanHang\QuanBanHang\GUI\DAL\bin\Debug\DTO.pdb
+D:\Nam 3\Phat Trien PhanMem Ung Dung Thong Minh\DoAnQuanLyBanHang\QuanBanHang\GUI\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
